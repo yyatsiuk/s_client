@@ -1,0 +1,30 @@
+.home-page {
+  .flexbox {
+    display: flex;
+    margin-top: -740px;
+  }
+
+  .flexbox .stretch {
+    flex: 1;
+  }
+
+  .flexbox div input {
+    padding: .5em 1em;
+    width: 17%;
+    font-size: 1vw;
+  }
+
+  .flexbox div button {
+    padding: .5em 1em;
+    white-space: nowrap;
+    width: 4%;
+    flex: 1;
+    font-size: 1vw;
+  }
+
+  .flexbox div button:hover {
+    background-color: slategrey;
+  }
+}
+
+

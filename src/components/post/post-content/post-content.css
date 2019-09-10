@@ -1,0 +1,32 @@
+.post-content {
+    padding-bottom: 2%;
+}
+
+.photo {
+    width:90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.photo img {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text-content {
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.text-content p {
+    /*font-size: 2vw;*/
+    text-indent: 2%;
+    color: #d9e1e8;
+}
+
+.photo-content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}

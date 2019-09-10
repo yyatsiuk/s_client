@@ -1,0 +1,29 @@
+.home-page {
+    .card-promoting-card i {
+        font-size: 5vw;
+        margin-top: 3px;
+    }
+
+    .card-promoting-card {
+        margin-top: 50px;
+        color: white;
+        position: relative;
+        right: 10px;
+    }
+
+    div h4, div p {
+        margin-left: 10px;
+        font-size: 1.3vw;
+        margin-top: 5px;
+    }
+
+    @media(max-width: 168px) {
+        .card-promoting-card {
+            display: none;
+        }
+    }
+
+    div p a:hover {
+        text-decoration: none;
+    }
+}

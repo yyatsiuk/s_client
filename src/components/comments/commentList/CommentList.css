@@ -1,0 +1,22 @@
+.pb-cmnt-container {
+    font-family: Lato;
+    /*margin-top: 100px;*/
+    margin-bottom: 20px;
+}
+
+.pb-cmnt-textarea {
+    border-radius: 18px;
+    resize: none;
+    padding: 10px;
+    height: 40px;
+    width: 100%;
+    border: 1px solid #F2F2F2;
+}
+
+.pb-cmnt-textarea.unlogged {
+    color: #9aadc7;
+}
+
+.shareComment {
+    margin-bottom: 5px;
+}

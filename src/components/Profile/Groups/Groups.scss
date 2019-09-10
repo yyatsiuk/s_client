@@ -1,0 +1,68 @@
+.groupList-page {
+  .profile_info {
+    margin: 1.2rem !important;
+    font-size: 25px;
+  }
+
+  .group {
+    height: 5.9rem !important;
+    margin-bottom: 7.5rem !important;
+    text-decoration: none;
+  }
+
+  .group_name {
+    margin-top: 1rem !important;
+    margin-left: -5rem !important;
+    text-decoration: none;
+  }
+
+  .title {
+    margin-top: -4.3rem !important;
+    margin-left: 8rem !important;
+    font-size: 1.5rem !important;
+    position: absolute;
+  }
+  .group-content {
+    padding: 1rem !important;
+  }
+  .description {
+    font-size: 0.9rem !important;
+    text-align: justify;
+    word-wrap: break-word;
+    line-height: 1.4em;
+    color: #d9e1e8;
+    text-overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .groupArea {
+    color: white;
+    border-radius: 10px;
+    border-color: black;
+    background-color: #282c37;
+    width: 51.6rem !important;
+    height: 12.6rem !important;
+    margin-left: -0.8rem !important;
+    position: inherit;
+  }
+
+  .border_bottom {
+    border-bottom: 1px solid gainsboro;
+    margin-top: 6.2rem !important;
+  }
+
+  .groupArea:hover {
+    background: #4d6276;
+  }
+
+  .groupImgDiv {
+    width: 10%;
+    margin-left: 0.5rem !important;
+    margin-top: -6.3rem !important;
+    position: absolute;
+  }
+
+  .groupImg {
+    width: 37%;
+  }
+}

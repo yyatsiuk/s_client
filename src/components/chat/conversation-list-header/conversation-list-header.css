@@ -1,0 +1,11 @@
+.header-button {
+  background-color: #404659;
+  border-color: #363b4a;
+  color: white;
+}
+
+.header-button:hover {
+  background-color: #565d76;
+  border-color: #363b4a;
+  color: white;
+}

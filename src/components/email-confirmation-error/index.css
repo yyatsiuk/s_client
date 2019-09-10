@@ -1,0 +1,40 @@
+.email-confirmed-error__img{
+    width: 100%;
+}
+
+.email-confirmed-error__header{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    background: #ff735261;
+    color: #ff7352;
+    border-radius: 5px;
+}
+
+.email-confirmed-error__button{
+    border: 1px solid #fff;
+    padding: 15px 20px;
+    font-size: 25px;
+    width: fit-content;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    margin: auto;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+
+.email-confirmed-error__button:hover{
+    background: rgba(255, 115, 82, 0.38);
+    text-decoration: none;
+    color: #fff;
+}
+
+.email-confirmed-error .email-confirmed-error__img{
+    margin-top: 50px;
+}
+
+.email-confirmed-error .email-confirmed-error__button{
+    margin-top: 50px;
+}

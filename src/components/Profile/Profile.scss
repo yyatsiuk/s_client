@@ -1,0 +1,162 @@
+.backgroundProfileImg {
+  width: 100%;
+  min-height: 300px;
+}
+
+.backgroundProfileImgDiv {
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.profileHeader {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  color: white;
+  background-color: #282c37;
+}
+
+
+.profile_logo_container {
+  position: absolute;
+  height: 170px;
+  width: 170px;
+  top: -75px;
+  border-radius: 50%;
+  border: #282c37 7px solid;
+  margin-left: 15px;
+  overflow: hidden;
+}
+
+.profile_logo_col {
+  height: 90px;
+}
+
+.profile_logo {
+  width: 100%;
+}
+
+.profile-button {
+  background-color: transparent;
+  //border: #1da1f2 1px solid;
+  border: white 1px solid;
+  color: #1da1f2;
+  color: white;
+  border-radius: 25px;
+}
+
+.profile-button:hover{
+  border: white 1px solid;
+  background-color: #3f4550;
+}
+
+.navText {
+  border: none;
+  background-color: transparent;
+}
+
+.nav-link:hover {
+  cursor: pointer;
+}
+
+ul.nav.nav-tabs {
+  border-bottom-right-radius: 3px;
+  color: #9aadc7;
+}
+
+.profileName {
+  margin-top: 10px;
+}
+
+a.nav-link {
+  transition: 0.5s;
+
+}
+
+.textareaEditUser {
+  resize: none;
+  height: 40px;
+  //width: 80%;
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding-left: 15px;
+  border-bottom: white 2px solid;
+  font-size: 16px;
+}
+
+.textareaEditUser:focus {
+  outline-width: 0;
+  border-bottom: #375a7f 2px solid;
+}
+
+.textareaEditUserUpper{
+  padding-left: 7px;
+  padding-top: 3px;
+  color: #9aadc7;
+}
+
+.editUserInfoLeft {
+  padding-top: 11px;
+}
+
+.editUserInfoLeftElement {
+  margin-bottom: 30px;
+}
+
+.modal-content{
+  background-color: #282c37;
+  margin-top: 20%;
+  overflow: hidden;
+}
+
+.edit-your-info-text{
+  font-size: 19px;
+  margin: 15px;
+  width: 100%;
+}
+
+.user-name{
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.edit-save-form{
+  width: 100%;
+  margin-right: 15px;
+}
+
+.editUserSaveButton{
+  height: 80%;
+}
+
+.closeModalButton{
+  color: #375a7f;
+  font-size: 20px;
+  width: 20%;
+  background: transparent;
+  border: none;
+  border-radius: 50%;
+}
+
+.closeModalButton:hover{
+  transition: 0.4s;
+  background-color: #3d444f;
+}
+
+.editUserModalHeader {
+  background-color: #373d48;
+}
+
+.editUserModalElementsDiv{
+  padding-left: 20px;
+}
+
+.editUserModalElement{
+  border-radius: 2px;
+  background-color: #373d48;
+  margin: 10px;
+}
+

@@ -1,0 +1,39 @@
+.group-page {
+  .profile_info {
+    margin: 1.2rem !important;
+    font-size: 25px;
+  }
+
+  .group {
+    height: 5.9rem !important;
+    margin-top: -0.8rem !important;
+    text-decoration: none;
+  }
+
+  .group_name {
+    margin-top: 1rem !important;
+    margin-left: -5rem !important;
+    text-decoration: none;
+  }
+
+  .postArea {
+    color: white;
+    border-color: black;
+    background-color: #131419;
+    width: 52.6rem !important;
+    margin-left: -1.4rem !important;
+    position: inherit;
+  }
+
+  .postArea:hover {
+    background: #4d6276;
+  }
+
+  .postImgDiv {
+    width: 20%;
+  }
+
+  .postImg {
+    width: 37%;
+  }
+}

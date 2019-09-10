@@ -1,0 +1,44 @@
+.commentListItemStyle {
+  .commentDiv {
+    margin-left: 50px;
+    /*border-left: white 1px solid;*/
+    border-radius: 18px;
+    margin-bottom: 10px;
+    background-color: #383c47;
+    width: 90%;
+    padding: 5px;
+
+  }
+
+  .commentUserName {
+    color: #9aadc7;
+  }
+
+  .commentText {
+    margin-left: 15px;
+  }
+
+  .commentEditDelete {
+    background-color: transparent;
+    border: none;
+    color: #9aadc7;
+  }
+
+  .commentEditDelete:hover {
+    color: white;
+  }
+
+  .pb-cmnt-textarea {
+    border-radius: 18px;
+    resize: none;
+    padding: 10px;
+    height: 40px;
+    width: 100%;
+    border: 1px solid #F2F2F2;
+  }
+
+  .modal-content {
+    margin-top: 50%;
+  }
+
+}

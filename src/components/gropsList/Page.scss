@@ -1,0 +1,58 @@
+.group-page {
+  .fa-users {
+    margin-left: -3.2em !important;
+    margin-bottom: 0.3em !important;
+  }
+
+  .profileHeader {
+    color: white;
+    background-color: #131419;
+    height: 5em !important;
+  }
+
+  .groups_area {
+    margin-top: 1em !important;
+    overflow: scroll;
+    overflow-x: auto;
+    width: 66em !important;
+    height: 96%;
+    max-height: 87%;
+    display: inline-block;
+    position: inherit;
+    flex-direction: column;
+  }
+
+  .profileHeader {
+    color: white;
+    background-color: #131419;
+  }
+
+  #group_name {
+    margin-top: -1.2em !important;
+    margin-left: -2rem !important;
+  }
+
+  .profile_info {
+    margin-top: 1.6rem !important;
+    margin-left: -4.5rem !important;
+  }
+
+  .buttonTrue {
+    content: "Follow";
+  }
+
+  .buttonFalse {
+    content: "Unfollow";
+    visibility: visible;
+  }
+
+  .mt-4,
+  .my-4 {
+    margin-left: 12.5rem !important;
+  }
+
+  .group-link,
+  .group-link:hover {
+    text-decoration: none;
+  }
+}

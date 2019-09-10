@@ -1,0 +1,36 @@
+.login-with-google-btn{
+    font-size: 12px !important;
+}
+
+.login-with-google-btn > div {
+    margin-right: 0px !important;
+}
+@media all and (max-width: 1000px) and (min-width: 700px){
+    .login-with-google-btn{
+        display: flex !important;
+        justify-content: center;
+        font-size: 14px !important;
+    }
+
+    .actions{
+        flex-direction: column;
+    }
+    .login-with-google-btn > div {
+        margin-right: 10px !important;
+    }
+
+}
+
+@media all and (max-width: 470px) {
+    .login-with-google-btn{
+        display: flex !important;
+        justify-content: center;
+        font-size: 14px !important;
+    }
+    .actions{
+        flex-direction: column;
+    }
+    .login-with-google-btn > div {
+        margin-right: 10px !important;
+    }
+}

@@ -1,0 +1,9 @@
+.post {
+    width: 94%;
+    border-radius: 3px;
+    overflow: hidden;
+    background: #282c37;
+    margin: 5% 3% 4%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}

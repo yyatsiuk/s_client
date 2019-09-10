@@ -1,0 +1,40 @@
+.page-404{
+    background-image: url("/img/star_of_death.png"),url("/img/stars.png");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.page-404__content{
+    width: 400px;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    padding-bottom: 0;
+    box-sizing: border-box;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.72);
+}
+
+.page-404 .page-404__content{
+    margin: 150px auto 0 auto;
+}
+
+.page-404__error-code{
+    font-size: 40px;
+}
+
+.page-404__error-description{
+    font-size: 40px;
+}
+
+.page-404__link{
+    padding: 10px 20px;
+    font-size: 30px;
+    text-decoration: none;
+
+}

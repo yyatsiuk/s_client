@@ -1,0 +1,23 @@
+
+.button-functions {
+    margin-right: 100px;
+    display: flex;
+}
+
+.square_btn {
+    display: inline-block;
+    padding: 0.3em 1em;
+    text-decoration: none;
+    color: #d9e1e8;
+    border: solid 2px #d9e1e8;
+    border-radius: 3px;
+    transition: .4s;
+    margin: auto 2%;
+    /*font-size: 2vw;*/
+    background: transparent;
+}
+
+.square_btn:hover {
+    background: #2b90d9;
+    color: #d9e1e8;
+}
